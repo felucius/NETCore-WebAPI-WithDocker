@@ -5,5 +5,9 @@
     <RootNamespace>NETCore_WebAPI_WithDocker</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.1" />
+  </ItemGroup>
+
 
 </Project>
